@@ -6,6 +6,5 @@
   "dependencies": {
     "@lytest/test2": "^1.0.1",
     "react": "^17.0.1"
-  },
-  "gitHead": "c7c0a79954c4656da95d7137178281978f7c4a49"
+  }
 }

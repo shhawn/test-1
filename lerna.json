@@ -1,12 +1,9 @@
 {
   "version": "independent",
-  "npmClient": "npm",
-  "packages": [
-    "packages/*"
-  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
   "command": {
     "bootstrap": {
-      "hoist": true,
       "ignore": [],
       "npmClientArgs": [
         "--no-package-lock"

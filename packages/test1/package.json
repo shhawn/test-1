@@ -1,9 +1,11 @@
 {
   "name": "@lytest/test1",
-  "private": false,
   "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@lytest/test2": "^1.0.4",
     "react": "^17.0.1"
